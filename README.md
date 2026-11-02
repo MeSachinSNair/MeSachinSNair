@@ -1,14 +1,6 @@
-<div align="center">
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MeSachinSNair&fontSize=60&fontAlignY=40&animation=fadeIn" width="100%" alt="Header" /> <a href="https://github.com/MeSachinSNair"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI+%26+ML)+Student;Aspiring+AI%2FML+Engineer;Machine+Learning+%C2%B7+Deep+Learning;Computer+Vision+%C2%B7+Time-Series+Forecasting" alt="Typing animation" /> </a> <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey,%20I'm%20Sachin&fontSize=48&fontAlignY=38&animation=fadeIn&desc=B.Tech%20CSE%20(AI%20%26%20ML)&descSize=20&descAlignY=60" width="100%" alt="Header" />
-
-<a href="https://github.com/MeSachinSNair">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI+%26+ML)+Student;Aspiring+AI%2FML+Engineer;Machine+Learning+%C2%B7+Deep+Learning;Computer+Vision+%C2%B7+Time-Series+Forecasting" alt="Typing animation" />
-</a>
-
-<br/>
-
-I'm a Computer Science and Engineering (AI & ML) student at the **College of Engineering, Chengannur**, interested in building practical machine learning projects.
+I'm a Computer Science and Engineering (AI & ML) student at the College of Engineering, Chengannur, interested in building practical machine learning projects.
 
 <br/>
 
@@ -72,27 +64,6 @@ I'm a Computer Science and Engineering (AI & ML) student at the **College of Eng
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+⭐ If you like my work, feel free to star a repo!
 
-<div align="center">
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MeSachinSNair&show_icons=true&theme=github_dark&hide_border=true&count_private=true)](https://github.com/MeSachinSNair)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeSachinSNair&layout=compact&theme=github_dark&hide_border=true)](https://github.com/MeSachinSNair)
-
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=MeSachinSNair&theme=github-dark&hide_border=true)](https://github.com/MeSachinSNair)
-
-<h3>📈 Contribution Activity</h3>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MeSachinSNair&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution activity graph" />
-
-<h3>🏆 Trophies</h3>
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=MeSachinSNairE&theme=darkhub&no-frame=true&row=1&column=7)](https://github.com/MeSachinSNair)
-
-<br/>
-
-⭐ *If you like my work, feel free to star a repo!*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="Footer" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="Footer" /> </div>
