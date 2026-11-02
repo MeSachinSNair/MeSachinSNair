@@ -55,7 +55,7 @@ I'm a Computer Science and Engineering (AI & ML) student, interested in building
       <p>🔗 <a href="https://huggingface.co/spaces/MeSachinSNair/YOUR-SPACE">Live Demo</a></p>
     </td>
     <td width="50%" valign="top">
-      <h4>👁️ <a href="https://github.com/MeSachinSNair/diabetic-retinopathy-detection">Diabetic Retinopathy Detection & Vessel Segmentation</a></h4>
+      <h4>👁️ <a href="https://github.com/MeSachinSNair/Diabetic-Retinopathy-Detection-Vessel-Segmentation">Diabetic Retinopathy Detection & Vessel Segmentation</a></h4>
       <p>Segments retinal blood vessels and detects lesions and hemorrhages in fundus images to support early diagnosis and blindness prevention. I worked on the ResNet-based classification component.</p>
       <p><code>Python</code> <code>U-Net</code> <code>K-Means</code> <code>ResNet</code> <code>YOLO</code> <code>Computer Vision</code></p>
     </td>
