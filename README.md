@@ -49,7 +49,7 @@ I'm a Computer Science and Engineering (AI & ML) student, interested in building
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h4>📈 <a href="https://github.com/MeSachinSNair/stock-price-trend-predictor">Stock Price Trend Predictor</a></h4>
+      <h4>📈 <a href="https://github.com/MeSachinSNair/stocksense-ai">Stock Price Trend Predictor</a></h4>
       <p>LSTM-based model that forecasts stock price trends, deployed as an interactive web app.</p>
       <p><code>Python</code> <code>Keras</code> <code>LSTM</code> <code>Gradio</code> <code>Hugging Face Spaces</code></p>
       <p>🔗 <a href="https://huggingface.co/spaces/MeSachinSNair/YOUR-SPACE">Live Demo</a></p>
